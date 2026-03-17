@@ -1,6 +1,6 @@
 # ❤️ Happy Valentine L
 
-A beautiful, interactive, and romantic web experience designed as a special Valentine's Day gift. This project features a multi-step interactive flow that leads to a stunning 3D Dome Gallery of memories.
+Selamat 25 tahun, Madinatul Adawiyah. Makasih ya udah lahir ke dunia dan jadi bagian paling manis di hidup aku. Tetap jadi Adek yang aku sayang ya, Dinul. Aku bakal selalu jadi tim hore paling depan buat dukung semua mimpi-mimpi kamu. Happy birthday, my favorite person! ❤️
 
 ## ✨ Features
 
